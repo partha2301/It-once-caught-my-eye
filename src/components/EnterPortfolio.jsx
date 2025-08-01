@@ -22,7 +22,7 @@ const EnterPortfoliio = () => {
         <CategoryPhotoBottom image={Monochrome} caption="We live in a Monochromatic World"/>
         <CategoryPhotoTop image={Memories} caption="Your Memories Lie Frozen"/>
         <CategoryPhotoBottom image={Bricks} caption="The Bricks have Souls"/>
-        <CategoryPhotoTop image={Bloom} caption="Whereevr you Bloom"/>
+        <CategoryPhotoTop image={Bloom} caption="Wherever you Bloom"/>
         <CategoryPhotoBottom image={Feline} caption="Fairly Feline"/>
         <CategoryPhotoTop image={Altered} caption="Slightly Altered"/>
       </div>
